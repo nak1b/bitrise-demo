@@ -1,0 +1,8 @@
+app_identifier "com.nakib.bitrisedemo" # The bundle identifier of your app
+apple_id "nbmomin14@gmail.com" # Your Apple email address
+
+itc_team_id "118023989" # iTunes Connect Team ID
+team_id "86W2WCFB7B" # Developer Portal Team ID
+
+# For more information about the Appfile, see:
+#     https://docs.fastlane.tools/advanced/#appfile
