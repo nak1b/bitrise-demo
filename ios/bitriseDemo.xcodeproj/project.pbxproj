@@ -1079,7 +1079,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer: Nakib Momin (SJ3BWED8BT)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Nakib Momin (SJ3BWED8BT)";
 				CODE_SIGN_STYLE = Manual;
-				CURRENT_PROJECT_VERSION = 10;
+				CURRENT_PROJECT_VERSION = 11;
 				DEAD_CODE_STRIPPING = NO;
 				DEVELOPMENT_TEAM = 86W2WCFB7B;
 				INFOPLIST_FILE = bitriseDemo/Info.plist;
@@ -1104,7 +1104,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Distribution: Nakib Momin (86W2WCFB7B)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
 				CODE_SIGN_STYLE = Manual;
-				CURRENT_PROJECT_VERSION = 10;
+				CURRENT_PROJECT_VERSION = 11;
 				DEVELOPMENT_TEAM = 86W2WCFB7B;
 				INFOPLIST_FILE = bitriseDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
